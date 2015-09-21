@@ -1,0 +1,3 @@
+LatAccMax_mpss,		double,	2.0
+LonAccMax_mpss,		double,	1.5
+LonDecMax_mpss,		double,	2.5

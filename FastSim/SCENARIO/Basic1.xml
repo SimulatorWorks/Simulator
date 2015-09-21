@@ -1,0 +1,61 @@
+<Scenario>
+	<VehicleState>
+		<Latitude>42.5841244</Latitude>
+		<Longitude>-83.6885965</Longitude>
+		<Heading>3.14</Heading>
+		<Curvature>0.0</Curvature>
+		<Speed>0.0</Speed>
+		<Acceleration>0.0</Acceleration>
+	</VehicleState>
+	<Lane>	<Name>Lane1</Name>
+		<NumOfWaypoints>12</NumOfWaypoints>
+		<Waypoint>42.5841244, -83.6885965 </Waypoint>
+		<Waypoint>42.5841150, -83.6887925 </Waypoint>
+		<Waypoint>42.5841037, -83.6890501 </Waypoint>
+		<Waypoint>42.5840938, -83.6892790 </Waypoint>
+		<Waypoint>42.5840824, -83.6895445 </Waypoint>
+		<Waypoint>42.5840721, -83.6897795 </Waypoint>
+		<Waypoint>42.5840616, -83.6900159 </Waypoint>
+		<Waypoint>42.5840509, -83.6902533 </Waypoint>
+		<Waypoint>42.5840386, -83.6905259 </Waypoint>
+		<Waypoint>42.5840275, -83.6907649 </Waypoint>
+		<Waypoint>42.5840165, -83.6910044 </Waypoint>
+		<Waypoint>42.5840034, -83.6912900 </Waypoint>
+		<Width>3.1</Width>
+		<SpeedLim>20.0</SpeedLim>
+	</Lane>
+	<Lane>	<Name>Lane2</Name>
+		<NumOfWaypoints>12</NumOfWaypoints>
+		<Waypoint>42.5840959, -83.6885965 </Waypoint>
+		<Waypoint>42.5840865, -83.6887925 </Waypoint>
+		<Waypoint>42.5840752, -83.6890501 </Waypoint>
+		<Waypoint>42.5840653, -83.6892790 </Waypoint>
+		<Waypoint>42.5840539, -83.6895445 </Waypoint>
+		<Waypoint>42.5840436, -83.6897795 </Waypoint>
+		<Waypoint>42.5840331, -83.6900159 </Waypoint>
+		<Waypoint>42.5840224, -83.6902533 </Waypoint>
+		<Waypoint>42.5840101, -83.6905259 </Waypoint>
+		<Waypoint>42.5839990, -83.6907649 </Waypoint>
+		<Waypoint>42.5839880, -83.6910044 </Waypoint>
+		<Waypoint>42.5839749, -83.6912900 </Waypoint>
+		<Width>3.1</Width>
+		<SpeedLim>20.0</SpeedLim>
+	</Lane>
+	<Lane>	<Name>Lane3</Name>
+		<NumOfWaypoints>11</NumOfWaypoints>
+		<Waypoint>42.5840676, -83.6885965 </Waypoint>
+		<Waypoint>42.5840582, -83.6887925 </Waypoint>
+		<Waypoint>42.5840469, -83.6890501 </Waypoint>
+		<Waypoint>42.5840370, -83.6892790 </Waypoint>
+		<Waypoint>42.5840256, -83.6895445 </Waypoint>
+		<Waypoint>42.5840153, -83.6897795 </Waypoint>
+		<Waypoint>42.5839941, -83.6902533 </Waypoint>
+		<Waypoint>42.5839818, -83.6905259 </Waypoint>
+		<Waypoint>42.5839707, -83.6907649 </Waypoint>
+		<Waypoint>42.5839597, -83.6910044 </Waypoint>
+		<Waypoint>42.5839466, -83.6912900 </Waypoint>
+		<Width>3.1</Width>
+		<SpeedLim>20.0</SpeedLim>
+	</Lane>
+</Scenario>
+

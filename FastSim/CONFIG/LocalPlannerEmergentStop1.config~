@@ -1,0 +1,6 @@
+trajectorySpan_ms,			int,	100
+
+maxSpeedToIgnoreStartCurvature_k,	double,	2.0
+maxLateralTrackingErrorTol_m,		double,	2.0
+
+emergentDec_mpss,			double,	3.0

@@ -1,0 +1,2 @@
+maxSpeedToIgnoreStartCurvature_k,	double,	2.0
+maxLateralTrackingErrorTol_m,		double,	2.0

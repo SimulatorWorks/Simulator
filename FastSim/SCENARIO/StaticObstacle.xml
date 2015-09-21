@@ -1,0 +1,47 @@
+<Scenario>
+	<VehicleState>
+		<Latitude>42.5180205</Latitude>
+		<Longitude>-83.045114</Longitude>
+		<Heading>1.57</Heading>
+		<Curvature>0.0</Curvature>
+		<Speed>0.0</Speed>
+		<Acceleration>0.0</Acceleration>
+	</VehicleState>
+	<Lane>	<Name>Lane1</Name>
+		<NumOfWaypoints>4</NumOfWaypoints>
+		<Waypoint>42.5180176, -83.044992 </Waypoint>
+		<Waypoint>42.5280176, -83.044992 </Waypoint>
+		<Waypoint>42.5380176, -83.044992 </Waypoint>
+		<Waypoint>42.5480176, -83.044992 </Waypoint>
+		<Width>5.0</Width>
+		<SpeedLim>20.0</SpeedLim>
+	</Lane>
+	<Lane>	<Name>Lane2</Name>
+		<NumOfWaypoints>4</NumOfWaypoints>
+		<Waypoint>42.5180176, -83.045053 </Waypoint>
+		<Waypoint>42.5280176, -83.045053 </Waypoint>
+		<Waypoint>42.5380176, -83.045053 </Waypoint>
+		<Waypoint>42.5480176, -83.045053 </Waypoint>
+		<Width>5.0</Width>
+		<SpeedLim>20.0</SpeedLim>
+	</Lane>
+	<Lane>	<Name>Lane3</Name>
+		<NumOfWaypoints>4</NumOfWaypoints>
+		<Waypoint>42.5180176, -83.045114 </Waypoint>
+		<Waypoint>42.5280176, -83.045114 </Waypoint>
+		<Waypoint>42.5380176, -83.045114 </Waypoint>
+		<Waypoint>42.5480176, -83.045114 </Waypoint>
+		<Width>5.0</Width>
+		<SpeedLim>20.0</SpeedLim>
+	</Lane>
+	<Object>
+		<Name>StaticObj1</Name>
+		<Type>Static</Type>
+		<Length>2.0</Length>
+		<Width>2.0</Width>
+		<Latitude>42.5183800</Latitude>
+		<Longitude>-83.045140</Longitude>
+		<Heading>0.0</Heading>
+	</Object>
+</Scenario>
+

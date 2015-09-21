@@ -1,0 +1,19 @@
+trajectorySpan_ms,			int,	100
+
+maxSpeedToIgnoreStartCurvature_k,	double,	2.0
+maxLateralTrackingErrorTol_m,		double,	2.0
+
+pathHorizonFollowDown_m,		double, 30.0
+pathHorizonToStop_m, 			double,	20.0
+
+followDownSingleAccMin_mpss,		double, -4.0
+followDownSingleAccMax_mpss,		double,	3.0
+followDownSingleAccNum,			int,	30
+
+distKeepTimeMax_s,			double,	6.0
+distKeepTimeTar_s,			double,	2.0
+distKeepTimeMin_s,			double, 1.0
+distKeepDistMin_m,			double,	10.0
+
+maxCurvature_k,				double,	0.18
+maxLatAcc_mpss,				double,	4.0

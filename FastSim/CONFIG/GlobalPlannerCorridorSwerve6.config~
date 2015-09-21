@@ -1,0 +1,17 @@
+lookFwdLongitude_m,	double,	60.0
+lookBwdLongitude_m,	double,	2.0
+resLongitude_m,		double,	2.0
+
+spanLatitude_m,		double,	3.0
+resLatitude_m,		double,	0.2
+
+resPinPointStation_m,	double,	1.0
+
+pathAttract,		double,	1.0
+pathContract,		double,	5.0
+pathRepel,		double,	15.0	
+
+Obstacle_1s,		double,	3.0
+LatAcc_mpss,		double,	1.0
+LonAcc_mpss,		double,	1.0
+LonDec_mpss,		double,	2.0

@@ -1,0 +1,7 @@
+pathHorizon_m,				double,	50.0
+minAcc_mpss,				double,	-5.0
+maxAcc_mpss,				double,	3.0
+numOfAcc,				int,	30
+
+maxCurvature_k,				double,	0.18
+maxLatAcc_mpss,				double,	4.0
